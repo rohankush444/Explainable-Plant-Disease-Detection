@@ -1,6 +1,5 @@
 # Explainable-Plant-Disease-Detection
 
-# 1. Project Title
 ---
 # 2. Background and Motivation
 
