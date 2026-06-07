@@ -25,9 +25,6 @@ Dataset: PlantVillage Dataset
 Dataset Link:
 https://www.kaggle.com/datasets/emmarex/plantdisease
 
-Alternative Source:
-https://github.com/spMohanty/PlantVillage-Dataset
-
 ---
 
 # 5. Dataset Description
